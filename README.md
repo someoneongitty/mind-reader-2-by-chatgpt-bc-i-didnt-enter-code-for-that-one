@@ -1,0 +1,1 @@
+press on the /code/ button and press download zip file and if it has a zippy thing around it click on the file and press extract and open the file and click on the text document, copy the text and put it into python, it should make a window and tadaa!
